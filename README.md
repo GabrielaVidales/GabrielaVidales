@@ -68,16 +68,16 @@
 
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samantha09s&theme=github_dark" alt="Samantha's GitHub Stats"/></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaVidales&theme=github_dark" alt="Elaya's GitHub Stats"/></td>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samantha09s&theme=github_dark" alt="GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samantha09s&theme=github_dark&utcOffset=10" alt="Most Active Time"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samantha09s&theme=github_dark" alt="Repos by Language"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samantha09s&theme=github_dark" alt="Most Used Language"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielaVidales&theme=github_dark" alt="GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielaVidales&theme=github_dark&utcOffset=10" alt="Most Active Time"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielaVidales&theme=github_dark" alt="Repos by Language"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielaVidales&theme=github_dark" alt="Most Used Language"/></td>
     </tr>
  </table>
 
