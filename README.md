@@ -1,7 +1,7 @@
 <h1 align="center">Gabriela Vidales Ayala 👋</h1>
 
 <p align="center">
-  Physical Engineering Student · Computational Chemistry · AI/ML · Full-Stack<br>
+  Physics Engineering Student · Computational Chemistry · AI/ML · Full-Stack<br>
   CINVESTAV Mérida &nbsp;·&nbsp; MIT Applied AI &nbsp;·&nbsp; IEEE WIE UADY Founder<br>
   📍 Mérida, Yucatán, MX &nbsp;·&nbsp; 📧 gabriela.vidales@ieee.org
 </p>
