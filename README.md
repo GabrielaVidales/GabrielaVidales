@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=22&duration=3000&color=fcfcfc&center=true&vCenter=true&width=750&lines=Hi!+I'm+Gabriela+Vidales+Ayala+👋;Physics+Engineering+Student;Computational+Chemistry+Researcher;AI+%26+Data+Science+%7C+Full-Stack+Dev;STEM+Communicator+%26+Leader+🌠" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=22&duration=3000&color=fcfcfc&center=true&vCenter=true&width=600&lines=Hi!+I'm+Gabriela+Vidales+Ayala+👋;Physics+Engineering+Student;Computational+Chemistry+Researcher;AI+%26+Data+Science+%7C+Full-Stack+Dev;STEM+Communicator+%26+Leader+🌠" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
@@ -88,12 +88,7 @@
 
 ## 🌐 Languages
 
-| | Level | Score |
-|---|---|---|
-| 🇲🇽 Spanish | Native | — |
-| 🇺🇸 English | High-intermediate | TOEFL IBT 82 |
-| 🇨🇳 Mandarin | Intermediate | HSK 3 · 243/300 |
-| 🇫🇷 French | Basic | — |
+🇲🇽 Spanish (native) &nbsp;·&nbsp; 🇺🇸 English — TOEFL IBT 82 &nbsp;·&nbsp; 🇨🇳 Mandarin — HSK 3 (243/300) &nbsp;·&nbsp; 🇫🇷 French (basic)
 
 ---
 
