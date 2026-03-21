@@ -62,6 +62,28 @@
 🇲🇽 Spanish (native) &nbsp;·&nbsp; 🇺🇸 English (TOEFL 82) &nbsp;·&nbsp; 🇨🇳 Mandarin HSK 3 &nbsp;·&nbsp; 🇫🇷 French (basic)
 
 ---
+<div align="center">
+
+  <h2 align="center">📊 GitHub Stats</h2>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samantha09s&theme=github_dark" alt="Samantha's GitHub Stats"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samantha09s&theme=github_dark" alt="GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samantha09s&theme=github_dark&utcOffset=10" alt="Most Active Time"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samantha09s&theme=github_dark" alt="Repos by Language"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samantha09s&theme=github_dark" alt="Most Used Language"/></td>
+    </tr>
+ </table>
+
+</div>
+
+---
 
 ## 📬 Contact
 
