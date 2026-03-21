@@ -1,7 +1,9 @@
-<h1 align="center">Gabriela Vidales-Ayala 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&duration=3000&color=fcfcfc&center=true&vCenter=true&width=600&lines=Hi!+I'm+Gabriela+Vidales+Ayala+👋;Physics+Engineering+%26+Comp.+Chemistry;AI+%7C+Full-Stack+%7C+IoT+%7C+Research" alt="Typing SVG"/>
+</h1>
 
 <p align="center">
-  Physics Engineering Student · Computational Chemistry · AI/ML · Full-Stack<br>
+  Physics Engineering · Computational Chemistry · AI/ML · Full-Stack<br>
   CINVESTAV Mérida &nbsp;·&nbsp; MIT Applied AI &nbsp;·&nbsp; IEEE WIE UADY Founder<br>
   📍 Mérida, Yucatán, MX &nbsp;·&nbsp; 📧 gabriela.vidales@ieee.org
 </p>
@@ -47,13 +49,40 @@
 | **Roverty** | Autonomous precision agriculture rover · GPS · FPV telemetry · seed dispensing | C++ · CAD · Fusion 360 |
 | **Brain MRI AI** | CNN-based neuroimaging biomarker extraction · thesis project | Python · OpenCV · PyTorch |
 | **AIoT Smart Home** | Real-time energy monitoring system · custom PCB · 3D-printed enclosure | ESP32 · Arduino Cloud · Python |
-| [**WATOC 2028**](https://watoc2028.org/) | Webmaster lead — international computational chemistry conference | HTML · JS · CSS |
+| [**WATOC 2028**](https://watoc2028.org/) | Webmaster lead — international computational chemistry conference | React · Django · TypeScript |
 
 ---
 
-## 🎓 Certifications
+## 🏅 Certifications & Badges
 
-`HCIA-AI · Huawei` &nbsp; `Full Stack Developer · IBM` &nbsp; `Data Analyst · IBM` &nbsp; `Data Engineering · IBM` &nbsp; `Genomic Big Data Science · Johns Hopkins`
+> Get your badge links at [credly.com](https://credly.com) → search each certification → "Share" → copy the public URL and image.
+
+<!-- Replace each href and img src with your real Credly badge URLs -->
+<p align="center">
+  <a href="YOUR_CREDLY_LINK_HCIA_AI">
+    <img src="https://img.shields.io/badge/HCIA--AI-Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/>
+  </a>
+  <a href="YOUR_CREDLY_LINK_IBM_FULLSTACK">
+    <img src="https://img.shields.io/badge/Full%20Stack%20Developer-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+  </a>
+  <a href="YOUR_CREDLY_LINK_IBM_DATA_ANALYST">
+    <img src="https://img.shields.io/badge/Data%20Analyst-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+  </a>
+  <a href="YOUR_CREDLY_LINK_IBM_DATA_ENG">
+    <img src="https://img.shields.io/badge/Data%20Engineering-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+  </a>
+  <a href="YOUR_CREDLY_LINK_JHU">
+    <img src="https://img.shields.io/badge/Genomic%20Big%20Data-Johns%20Hopkins-003366?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Once you have your Credly image URLs, optionally add the visual badges like Carlos: -->
+<!--
+<p align="center">
+  <a href="YOUR_CREDLY_LINK"><img src="YOUR_CREDLY_IMAGE_URL" width="120" height="120"/></a>
+  <a href="YOUR_CREDLY_LINK"><img src="YOUR_CREDLY_IMAGE_URL" width="120" height="120"/></a>
+</p>
+-->
 
 ---
 
@@ -62,24 +91,25 @@
 🇲🇽 Spanish (native) &nbsp;·&nbsp; 🇺🇸 English (TOEFL 82) &nbsp;·&nbsp; 🇨🇳 Mandarin HSK 3 &nbsp;·&nbsp; 🇫🇷 French (basic)
 
 ---
+
 <div align="center">
 
-  <h2 align="center">📊 GitHub Stats</h2>
+  <h2>📊 GitHub Stats</h2>
 
- <table align="center" width="100%" height="100%" >
+  <table align="center" width="100%">
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaVidales&theme=github_dark" alt="Elaya's GitHub Stats"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaVidales&theme=github_dark"/></td>
     </tr>
- </table>
+  </table>
 
- <table align="center" width="100%" height="100%" >
+  <table align="center" width="100%">
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielaVidales&theme=github_dark" alt="GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielaVidales&theme=github_dark&utcOffset=10" alt="Most Active Time"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielaVidales&theme=github_dark" alt="Repos by Language"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielaVidales&theme=github_dark" alt="Most Used Language"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielaVidales&theme=github_dark"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielaVidales&theme=github_dark&utcOffset=-6"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielaVidales&theme=github_dark"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielaVidales&theme=github_dark"/></td>
     </tr>
- </table>
+  </table>
 
 </div>
 
@@ -87,6 +117,13 @@
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriela-vidales)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabriela.vidales@ieee.org)
-[![IEEE](https://img.shields.io/badge/IEEE%20WIE-00629B?style=flat&logo=ieee&logoColor=white)](https://www.instagram.com/wie.uady/)
+<p align="center">
+  <a href="mailto:gabriela.vidales@ieee.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gabriela-vidales"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/GabrielaVidales"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/wie.uady/"><img src="https://img.shields.io/badge/IEEE%20WIE%20UADY-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ **Feel free to explore my repositories and collaborate!**
