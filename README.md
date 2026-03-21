@@ -1,9 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&duration=3000&color=fcfcfc&center=true&vCenter=true&width=600&lines=Hi!+I'm+Gabriela+Vidales+Ayala+👋;Physics+Engineering+%26+Comp.+Chemistry;AI+%7C+Full-Stack+%7C+IoT+%7C+Research" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&duration=3000&color=fcfcfc&center=true&vCenter=true&width=650&lines=Hi!+I'm+Gabriela+Vidales+Ayala+👋;Physics+Engineering+%26+Comp.+Chemistry;AI+%7C+Full-Stack+%7C+IoT+%7C+Research" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
-  Physics Engineering · Computational Chemistry · AI/ML · Full-Stack<br>
+  Physics Engineering · Computational Chemistry Researcher · AI & Data Science<br>
+  3D CAD & Electronics Prototyping · Full-Stack Web Developer · STEM Communicator & Mentor<br>
   CINVESTAV Mérida &nbsp;·&nbsp; MIT Applied AI &nbsp;·&nbsp; IEEE WIE UADY Founder<br>
   📍 Mérida, Yucatán, MX &nbsp;·&nbsp; 📧 gabriela.vidales@ieee.org
 </p>
@@ -12,10 +13,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
@@ -29,6 +33,7 @@
 | 🎓 **MIT Professional Education** | Applied AI & Data Science Program · 2025–present |
 | 🌐 **HUAWEI Tech4Good** | Mexico Representative · Seeds for the Future · 2024 |
 | 🏛️ **CONACYT** | Assistant Research Fellow · CVU 2160074 · 2025–present |
+| 🧬 **CINVESTAV Mérida** | Research Assistant · TheoChemMérida Lab · Dr. Gabriel Merino · 2024–present |
 
 ---
 
@@ -55,40 +60,63 @@
 
 ## 🏅 Certifications & Badges
 
-> Get your badge links at [credly.com](https://credly.com) → search each certification → "Share" → copy the public URL and image.
-
-<!-- Replace each href and img src with your real Credly badge URLs -->
 <p align="center">
-  <a href="YOUR_CREDLY_LINK_HCIA_AI">
-    <img src="https://img.shields.io/badge/HCIA--AI-Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/>
+  <a href="https://www.credly.com/badges/5edd3fdc-4e26-40e8-bfc6-0c7aba0ff1ae">
+    <img src="https://images.credly.com/size/200x200/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="110" height="110" alt="IBM Data Analyst Professional Certificate"/>
   </a>
-  <a href="YOUR_CREDLY_LINK_IBM_FULLSTACK">
-    <img src="https://img.shields.io/badge/Full%20Stack%20Developer-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.credly.com/badges/78J9OYW38XO4">
+    <img src="https://images.credly.com/size/200x200/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="110" height="110" alt="IBM Full Stack Developer"/>
   </a>
-  <a href="YOUR_CREDLY_LINK_IBM_DATA_ANALYST">
-    <img src="https://img.shields.io/badge/Data%20Analyst-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.credly.com/badges/JED8AKHS8ARS">
+    <img src="https://images.credly.com/size/200x200/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="110" height="110" alt="Genomic Data Science · Johns Hopkins"/>
   </a>
-  <a href="YOUR_CREDLY_LINK_IBM_DATA_ENG">
-    <img src="https://img.shields.io/badge/Data%20Engineering-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.credly.com/badges/b21945cf-12c9-400f-bef8-bc022270c35a">
+    <img src="https://images.credly.com/size/200x200/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/image.png" width="110" height="110" alt="Data Analysis with Python"/>
   </a>
-  <a href="YOUR_CREDLY_LINK_JHU">
-    <img src="https://img.shields.io/badge/Genomic%20Big%20Data-Johns%20Hopkins-003366?style=for-the-badge&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.credly.com/badges/536bae89-e03d-4f3b-95ae-461813a61b67">
+    <img src="https://images.credly.com/size/200x200/images/1a8f4ccd-73bf-4edb-9bb1-5f774a9fd3a6/image.png" width="110" height="110" alt="Data Analyst Capstone"/>
   </a>
 </p>
 
-<!-- Once you have your Credly image URLs, optionally add the visual badges like Carlos: -->
-<!--
 <p align="center">
-  <a href="YOUR_CREDLY_LINK"><img src="YOUR_CREDLY_IMAGE_URL" width="120" height="120"/></a>
-  <a href="YOUR_CREDLY_LINK"><img src="YOUR_CREDLY_IMAGE_URL" width="120" height="120"/></a>
+  <a href="https://www.credly.com/badges/442270e5-d28c-491c-b600-7e1ec4c8e658">
+    <img src="https://images.credly.com/size/200x200/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/image.png" width="110" height="110" alt="Databases and SQL for Data Science"/>
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/ce08cb21-4aff-4985-a95b-4ac7fba94219">
+    <img src="https://images.credly.com/size/200x200/images/643b96f0-0a5d-4d5b-ae57-8a23a7a242f0/image.png" width="110" height="110" alt="Data Engineering Essentials"/>
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/0b2495d6-edcc-472f-8c52-0e12eebf0718">
+    <img src="https://images.credly.com/size/200x200/images/76326afb-199d-4250-a74f-01bc86dda443/image.png" width="110" height="110" alt="Data Visualization with Python"/>
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/139dc3a4-0dc4-44a9-9cae-597a05192dd7">
+    <img src="https://images.credly.com/size/200x200/images/da9ed6b4-6d65-4c8a-aead-7c9d0b8aefb3/image.png" width="110" height="110" alt="Python Project for Data Engineering"/>
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/aa3b783f-f344-456b-a5c6-5faad6ae59ba">
+    <img src="https://images.credly.com/size/200x200/images/f9b9b7ea-a7d6-4b8e-82f2-07d7dc3f59e7/image.png" width="110" height="110" alt="Relational Databases Essentials"/>
+  </a>
 </p>
--->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HCIA--AI-Huawei%202025–2028-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20AI%20Essentials-Google%202025-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Genomic%20Big%20Data-Johns%20Hopkins-003366?style=for-the-badge&logoColor=white"/>
+</p>
+
+> ⚠️ **Note:** Badge images link to verified Credly credentials. If any image appears broken, visit the [full badges page](https://www.credly.com/users/gabriela-yasmin-vidales-ayala/badges).
 
 ---
 
 ## 🌐 Languages
 
-🇲🇽 Spanish (native) &nbsp;·&nbsp; 🇺🇸 English (TOEFL 82) &nbsp;·&nbsp; 🇨🇳 Mandarin HSK 3 &nbsp;·&nbsp; 🇫🇷 French (basic)
+🇲🇽 Spanish (native) &nbsp;·&nbsp; 🇺🇸 English — TOEFL IBT 82 &nbsp;·&nbsp; 🇨🇳 Mandarin — HSK 3 (243/300) &nbsp;·&nbsp; 🇫🇷 French (basic)
 
 ---
 
@@ -98,16 +126,16 @@
 
   <table align="center" width="100%">
     <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaVidales&theme=github_dark"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaVidales&theme=github_dark" alt="GitHub profile summary"/></td>
     </tr>
   </table>
 
   <table align="center" width="100%">
     <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielaVidales&theme=github_dark"/></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielaVidales&theme=github_dark&utcOffset=-6"/></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielaVidales&theme=github_dark"/></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielaVidales&theme=github_dark"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielaVidales&theme=github_dark" alt="Stats"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielaVidales&theme=github_dark&utcOffset=-6" alt="Most active time"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielaVidales&theme=github_dark" alt="Repos by language"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielaVidales&theme=github_dark" alt="Most used language"/></td>
     </tr>
   </table>
 
@@ -122,6 +150,7 @@
   <a href="https://linkedin.com/in/gabriela-vidales"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/GabrielaVidales"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/wie.uady/"><img src="https://img.shields.io/badge/IEEE%20WIE%20UADY-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
+  <a href="https://www.coursera.org/learner/gabriela-vidales"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/></a>
 </p>
 
 ---
