@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=22&duration=3000&color=fcfcfc&center=true&vCenter=true&width=600&lines=Hi!+I'm+Gabriela+Vidales+Ayala+👋;Physics+Engineering+Student;Computational+Chemistry+Researcher;AI+%26+Data+Science+%7C+Full-Stack+Dev;STEM+Communicator+%26+Leader+🌠" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&duration=3000&color=fcfcfc&center=true&vCenter=true&width=750&lines=Hi!+I'm+Gabriela+Vidales+Ayala+👋;Physics+Engineering+Student;Computational+Chemistry+Researcher;AI+%26+Data+Science+%7C+Full-Stack+Dev;STEM+Communicator+%26+Leader+🌠" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
@@ -56,33 +56,11 @@
 
 ---
 
-## 🏅 Certifications & Badges
+## 🏅 Certifications
 
-<p align="center">
-  <a href="https://www.credly.com/badges/5edd3fdc-4e26-40e8-bfc6-0c7aba0ff1ae">
-    <img src="https://images.credly.com/size/200x200/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="110" height="110" alt="IBM Data Analyst Professional Certificate"/>
-  </a>&nbsp;
-  <a href="https://www.credly.com/badges/b21945cf-12c9-400f-bef8-bc022270c35a">
-    <img src="https://images.credly.com/size/200x200/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/image.png" width="110" height="110" alt="Data Analysis with Python"/>
-  </a>&nbsp;
-  <a href="https://www.credly.com/badges/442270e5-d28c-491c-b600-7e1ec4c8e658">
-    <img src="https://images.credly.com/size/200x200/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/image.png" width="110" height="110" alt="Databases and SQL for Data Science"/>
-  </a>&nbsp;
-  <a href="https://www.credly.com/badges/0b2495d6-edcc-472f-8c52-0e12eebf0718">
-    <img src="https://images.credly.com/size/200x200/images/76326afb-199d-4250-a74f-01bc86dda443/image.png" width="110" height="110" alt="Data Visualization with Python"/>
-  </a>&nbsp;
-  <a href="https://www.credly.com/badges/JED8AKHS8ARS">
-    <img src="https://images.credly.com/size/200x200/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="110" height="110" alt="Genomic Data Science · Johns Hopkins"/>
-  </a>
-</p>
+`HCIA-AI · Huawei` &nbsp; `IBM Full Stack Developer` &nbsp; `IBM Data Analyst` &nbsp; `IBM Data Engineering` &nbsp; `Genomic Big Data Science · Johns Hopkins` &nbsp; `Google AI Essentials`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HCIA--AI-Huawei%202025–2028-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20AI%20Essentials-Google%202025-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IBM%20Full%20Stack%20Developer-IBM%202025-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
-</p>
-
-🔗 [View all verified badges on Credly](https://www.credly.com/users/gabriela-yasmin-vidales-ayala/badges)
+🔗 [View all verified badges on:]([https://www.credly.com/users/gabriela-yasmin-vidales-ayala/badges](https://www.linkedin.com/in/gabriela-vidales/details/certifications/))
 
 ---
 
