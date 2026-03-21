@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&duration=3000&color=fcfcfc&center=true&vCenter=true&width=650&lines=Hi!+I'm+Gabriela+Vidales+Ayala+👋;Physics+Engineering+%26+Comp.+Chemistry;AI+%7C+Full-Stack+%7C+IoT+%7C+Research" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=18&duration=3000&color=fcfcfc&center=true&vCenter=true&width=750&lines=Physics+Engineering+Student+%7C+Comp.+Chemistry+Researcher;AI+%26+Data+Science+%7C+3D+CAD+%26+Electronics+Prototyping;Full-Stack+Web+Developer+%7C+STEM+Communicator+%26+Mentor+%7C+Leader🌠" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
@@ -63,54 +63,46 @@
 <p align="center">
   <a href="https://www.credly.com/badges/5edd3fdc-4e26-40e8-bfc6-0c7aba0ff1ae">
     <img src="https://images.credly.com/size/200x200/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="110" height="110" alt="IBM Data Analyst Professional Certificate"/>
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/78J9OYW38XO4">
-    <img src="https://images.credly.com/size/200x200/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="110" height="110" alt="IBM Full Stack Developer"/>
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/JED8AKHS8ARS">
-    <img src="https://images.credly.com/size/200x200/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="110" height="110" alt="Genomic Data Science · Johns Hopkins"/>
-  </a>
-  &nbsp;
+  </a>&nbsp;
   <a href="https://www.credly.com/badges/b21945cf-12c9-400f-bef8-bc022270c35a">
     <img src="https://images.credly.com/size/200x200/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/image.png" width="110" height="110" alt="Data Analysis with Python"/>
-  </a>
-  &nbsp;
+  </a>&nbsp;
   <a href="https://www.credly.com/badges/536bae89-e03d-4f3b-95ae-461813a61b67">
     <img src="https://images.credly.com/size/200x200/images/1a8f4ccd-73bf-4edb-9bb1-5f774a9fd3a6/image.png" width="110" height="110" alt="Data Analyst Capstone"/>
+  </a>&nbsp;
+  <a href="https://www.credly.com/badges/442270e5-d28c-491c-b600-7e1ec4c8e658">
+    <img src="https://images.credly.com/size/200x200/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/image.png" width="110" height="110" alt="Databases and SQL for Data Science"/>
+  </a>&nbsp;
+  <a href="https://www.credly.com/badges/ce08cb21-4aff-4985-a95b-4ac7fba94219">
+    <img src="https://images.credly.com/size/200x200/images/643b96f0-0a5d-4d5b-ae57-8a23a7a242f0/image.png" width="110" height="110" alt="Data Engineering Essentials"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/442270e5-d28c-491c-b600-7e1ec4c8e658">
-    <img src="https://images.credly.com/size/200x200/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/image.png" width="110" height="110" alt="Databases and SQL for Data Science"/>
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/ce08cb21-4aff-4985-a95b-4ac7fba94219">
-    <img src="https://images.credly.com/size/200x200/images/643b96f0-0a5d-4d5b-ae57-8a23a7a242f0/image.png" width="110" height="110" alt="Data Engineering Essentials"/>
-  </a>
-  &nbsp;
+  <a href="https://www.credly.com/badges/343a378a-9a04-4a56-9a01-d9a7f9fa0f8b">
+    <img src="https://images.credly.com/size/200x200/images/76326afb-199d-4250-a74f-01bc86dda443/image.png" width="110" height="110" alt="Data Visualization & Dashboard Essentials"/>
+  </a>&nbsp;
   <a href="https://www.credly.com/badges/0b2495d6-edcc-472f-8c52-0e12eebf0718">
     <img src="https://images.credly.com/size/200x200/images/76326afb-199d-4250-a74f-01bc86dda443/image.png" width="110" height="110" alt="Data Visualization with Python"/>
-  </a>
-  &nbsp;
+  </a>&nbsp;
   <a href="https://www.credly.com/badges/139dc3a4-0dc4-44a9-9cae-597a05192dd7">
     <img src="https://images.credly.com/size/200x200/images/da9ed6b4-6d65-4c8a-aead-7c9d0b8aefb3/image.png" width="110" height="110" alt="Python Project for Data Engineering"/>
-  </a>
-  &nbsp;
+  </a>&nbsp;
   <a href="https://www.credly.com/badges/aa3b783f-f344-456b-a5c6-5faad6ae59ba">
     <img src="https://images.credly.com/size/200x200/images/f9b9b7ea-a7d6-4b8e-82f2-07d7dc3f59e7/image.png" width="110" height="110" alt="Relational Databases Essentials"/>
+  </a>&nbsp;
+  <a href="https://www.credly.com/badges/JED8AKHS8ARS">
+    <img src="https://images.credly.com/size/200x200/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="110" height="110" alt="Genomic Data Science · Johns Hopkins"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HCIA--AI-Huawei%202025–2028-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20AI%20Essentials-Google%202025-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Genomic%20Big%20Data-Johns%20Hopkins-003366?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM%20Full%20Stack%20Developer-IBM%202025-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
-> ⚠️ **Note:** Badge images link to verified Credly credentials. If any image appears broken, visit the [full badges page](https://www.credly.com/users/gabriela-yasmin-vidales-ayala/badges).
+> 🔗 [View all verified badges on Credly](https://www.credly.com/users/gabriela-yasmin-vidales-ayala/badges)
 
 ---
 
