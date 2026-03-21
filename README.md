@@ -1,4 +1,4 @@
-<h1 align="center">Gabriela Vidales Ayala 👋</h1>
+<h1 align="center">Gabriela Vidales-Ayala 👋</h1>
 
 <p align="center">
   Physics Engineering Student · Computational Chemistry · AI/ML · Full-Stack<br>
