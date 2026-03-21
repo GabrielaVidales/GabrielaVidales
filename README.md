@@ -1,10 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=18&duration=3000&color=fcfcfc&center=true&vCenter=true&width=750&lines=Physics+Engineering+Student+%7C+Comp.+Chemistry+Researcher;AI+%26+Data+Science+%7C+3D+CAD+%26+Electronics+Prototyping;Full-Stack+Web+Developer+%7C+STEM+Communicator+%26+Mentor+%7C+Leader🌠" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=22&duration=3000&color=fcfcfc&center=true&vCenter=true&width=750&lines=Hi!+I'm+Gabriela+Vidales+Ayala+👋;Physics+Engineering+Student;Computational+Chemistry+Researcher;AI+%26+Data+Science+%7C+Full-Stack+Dev;STEM+Communicator+%26+Leader+🌠" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
-  Physics Engineering · Computational Chemistry Researcher · AI & Data Science<br>
-  3D CAD & Electronics Prototyping · Full-Stack Web Developer · STEM Communicator & Mentor<br>
   CINVESTAV Mérida &nbsp;·&nbsp; MIT Applied AI &nbsp;·&nbsp; IEEE WIE UADY Founder<br>
   📍 Mérida, Yucatán, MX &nbsp;·&nbsp; 📧 gabriela.vidales@ieee.org
 </p>
@@ -67,29 +65,11 @@
   <a href="https://www.credly.com/badges/b21945cf-12c9-400f-bef8-bc022270c35a">
     <img src="https://images.credly.com/size/200x200/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/image.png" width="110" height="110" alt="Data Analysis with Python"/>
   </a>&nbsp;
-  <a href="https://www.credly.com/badges/536bae89-e03d-4f3b-95ae-461813a61b67">
-    <img src="https://images.credly.com/size/200x200/images/1a8f4ccd-73bf-4edb-9bb1-5f774a9fd3a6/image.png" width="110" height="110" alt="Data Analyst Capstone"/>
-  </a>&nbsp;
   <a href="https://www.credly.com/badges/442270e5-d28c-491c-b600-7e1ec4c8e658">
     <img src="https://images.credly.com/size/200x200/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/image.png" width="110" height="110" alt="Databases and SQL for Data Science"/>
   </a>&nbsp;
-  <a href="https://www.credly.com/badges/ce08cb21-4aff-4985-a95b-4ac7fba94219">
-    <img src="https://images.credly.com/size/200x200/images/643b96f0-0a5d-4d5b-ae57-8a23a7a242f0/image.png" width="110" height="110" alt="Data Engineering Essentials"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.credly.com/badges/343a378a-9a04-4a56-9a01-d9a7f9fa0f8b">
-    <img src="https://images.credly.com/size/200x200/images/76326afb-199d-4250-a74f-01bc86dda443/image.png" width="110" height="110" alt="Data Visualization & Dashboard Essentials"/>
-  </a>&nbsp;
   <a href="https://www.credly.com/badges/0b2495d6-edcc-472f-8c52-0e12eebf0718">
     <img src="https://images.credly.com/size/200x200/images/76326afb-199d-4250-a74f-01bc86dda443/image.png" width="110" height="110" alt="Data Visualization with Python"/>
-  </a>&nbsp;
-  <a href="https://www.credly.com/badges/139dc3a4-0dc4-44a9-9cae-597a05192dd7">
-    <img src="https://images.credly.com/size/200x200/images/da9ed6b4-6d65-4c8a-aead-7c9d0b8aefb3/image.png" width="110" height="110" alt="Python Project for Data Engineering"/>
-  </a>&nbsp;
-  <a href="https://www.credly.com/badges/aa3b783f-f344-456b-a5c6-5faad6ae59ba">
-    <img src="https://images.credly.com/size/200x200/images/f9b9b7ea-a7d6-4b8e-82f2-07d7dc3f59e7/image.png" width="110" height="110" alt="Relational Databases Essentials"/>
   </a>&nbsp;
   <a href="https://www.credly.com/badges/JED8AKHS8ARS">
     <img src="https://images.credly.com/size/200x200/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="110" height="110" alt="Genomic Data Science · Johns Hopkins"/>
@@ -102,34 +82,39 @@
   <img src="https://img.shields.io/badge/IBM%20Full%20Stack%20Developer-IBM%202025-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
-> 🔗 [View all verified badges on Credly](https://www.credly.com/users/gabriela-yasmin-vidales-ayala/badges)
+🔗 [View all verified badges on Credly](https://www.credly.com/users/gabriela-yasmin-vidales-ayala/badges)
 
 ---
 
 ## 🌐 Languages
 
-🇲🇽 Spanish (native) &nbsp;·&nbsp; 🇺🇸 English — TOEFL IBT 82 &nbsp;·&nbsp; 🇨🇳 Mandarin — HSK 3 (243/300) &nbsp;·&nbsp; 🇫🇷 French (basic)
+| | Level | Score |
+|---|---|---|
+| 🇲🇽 Spanish | Native | — |
+| 🇺🇸 English | High-intermediate | TOEFL IBT 82 |
+| 🇨🇳 Mandarin | Intermediate | HSK 3 · 243/300 |
+| 🇫🇷 French | Basic | — |
 
 ---
 
 <div align="center">
 
-  <h2>📊 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
-  <table align="center" width="100%">
-    <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaVidales&theme=github_dark" alt="GitHub profile summary"/></td>
-    </tr>
-  </table>
+<table width="100%">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaVidales&theme=github_dark"/></td>
+  </tr>
+</table>
 
-  <table align="center" width="100%">
-    <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielaVidales&theme=github_dark" alt="Stats"/></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielaVidales&theme=github_dark&utcOffset=-6" alt="Most active time"/></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielaVidales&theme=github_dark" alt="Repos by language"/></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielaVidales&theme=github_dark" alt="Most used language"/></td>
-    </tr>
-  </table>
+<table width="100%">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielaVidales&theme=github_dark"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielaVidales&theme=github_dark&utcOffset=-6"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielaVidales&theme=github_dark"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielaVidales&theme=github_dark"/></td>
+  </tr>
+</table>
 
 </div>
 
