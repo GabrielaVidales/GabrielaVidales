@@ -58,19 +58,25 @@
 
 ## 🏅 Certifications
 
-`HCIA-AI · Huawei` &nbsp; `IBM Full Stack Developer` &nbsp; `IBM Data Analyst` &nbsp; `IBM Data Engineering` &nbsp; `Genomic Big Data Science · Johns Hopkins` &nbsp; `Google AI Essentials`
+**Professional Certificates**
 
-🔗 [View all verified badges on:]([https://www.credly.com/users/gabriela-yasmin-vidales-ayala/badges](https://www.linkedin.com/in/gabriela-vidales/details/certifications/))
+`HCIA-AI · Huawei (2025–2028)` &nbsp; `IBM Full Stack Software Developer` &nbsp; `IBM Data Analyst` &nbsp; `IBM Data Engineering Foundations` &nbsp; `Genomic Big Data Science · Johns Hopkins University`
+
+**Courses & Specializations**
+
+`Google AI Essentials` &nbsp; `Developing AI Applications with Python and Flask · IBM` &nbsp; `Data Analysis with Python · IBM` &nbsp; `Data Visualization with Python · IBM` &nbsp; `Databases and SQL for Data Science · IBM` &nbsp; `Developing Front-End Apps with React · IBM` &nbsp; `Developing Back-End Apps with Node.js and Express · IBM` &nbsp; `Python for Data Science, AI & Development · IBM` &nbsp; `Python for Genomic Data Science · Johns Hopkins` &nbsp; `Biomedicine and Immunology · U. of Chicago / Stanford / UNAM` &nbsp; `8th Winter School on Data Science and Complex Systems · IIMAS UNAM` &nbsp; `GlobalTECH International Summer School · AMCID` &nbsp; `Mini School of Bioinformatics: R, Bioconductor & AI · GenomicsTrack`
+
+🔗 [View all verified badges on Credly](https://www.credly.com/users/gabriela-yasmin-vidales-ayala/badges) &nbsp;·&nbsp; [View all certifications on LinkedIn](https://www.linkedin.com/in/gabriela-vidales/details/certifications/)
 
 ---
 
 ## 🌐 Languages
 
-🇲🇽 Spanish (native) &nbsp;·&nbsp; 🇺🇸 English — TOEFL IBT 82 &nbsp;·&nbsp; 🇨🇳 Mandarin — HSK 3 (243/300) &nbsp;·&nbsp; 🇫🇷 French (basic)
-
----
+🇲🇽 Spanish — Native &nbsp;·&nbsp; 🇺🇸 English — TOEFL IBT 82/120 &nbsp;·&nbsp; 🇨🇳 Mandarin — HSK 3 · 243/300 &nbsp;·&nbsp; 🇫🇷 French — Basic
 
 <div align="center">
+
+---
 
 <h2>📊 GitHub Stats</h2>
 
