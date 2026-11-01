@@ -27,10 +27,9 @@
 |---|---|
 | 🔬 **Weizmann Institute of Science** | ISSI "Dr. Bessie Lawrence" Mexican Fellow · 2025 |
 | 🛰️ **CanSat World Competition** | Top 10 of 121 teams from 20 countries · Team Leader · 2025 |
-| 🎓 **MIT Professional Education** | Applied AI & Data Science Program · 2025–present |
+| 🎓 **MIT Professional Education** | Applied AI & Data Science Program · 2026 |
 | 🌐 **HUAWEI Tech4Good** | Mexico Representative · Seeds for the Future · 2024 |
-<!--| 🏛️ **CONACYT** | Assistant Research Fellow · CVU 2160074 · 2025–present |-->
-| 🧬 **CINVESTAV Mérida** | Research Assistant · TheoChemMérida Lab · Dr. Gabriel Merino · 2024–present |
+| 🧬 **CINVESTAV Mérida** | Research Assistant · TheoChemMérida Lab · Dr. Gabriel Merino · 2024–2026 |
 
 ---
 
