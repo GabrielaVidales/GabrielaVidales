@@ -42,10 +42,9 @@
 | 🧬 **CINVESTAV Mérida** | Research Assistant · TheoChemMérida Lab · Dr. Gabriel Merino · 2024–Present |
 | 🇨🇳 **Zhejiang University** | SDG Global Summer School: Quantum Biological Information and Computation · 2026 |
 | 🎓 **MIT Professional Education** | Applied AI & Data Science Program · 2026 |
-| 🐧 **Linux Foundation Mentorship** | LLM agents & knowledge graphs · Talent Angels @ Learning Tokens · 2026 |
 | 🚀 **AEXA International Air and Space Program** | Presented at Space Center Houston · 2026 |
 | 🛰️ **CanSat World Competition** | Top 10 of 121 teams from 20 countries · Team Leader · 2025 |
-| 🔬 **Weizmann Institute of Science** | ISSI "Dr. Bessie Lawrence" Mexican Fellow · 2025 |
+| 🔬 **Weizmann Institute of Science** | Selected as ISSI "Dr. Bessie Lawrence" Mexican Fellow · 2025 |
 | 🌐 **HUAWEI Tech4Good** | Mexico Representative · Seeds for the Future · 2024 |
 
 ---
@@ -54,9 +53,8 @@
 
 > **Grammar-driven SMILES standardization with TokenSMILES**  
 > González-Ortiz, Noriega, Ortiz-Chi, **Vidales-Ayala**, Soberanis-Cáceres, Meneses-Viveros, Aspuru-Guzik & Merino  
-> *Chemical Science*, 17, 1666–1675 · 2026 · [DOI: 10.1039/D5SC05004A](https://doi.org/10.1039/D5SC05004A)
-
-> **ELAYA SMILES**: web platform for 3D molecular geometry generation and conformer search · *manuscript in preparation*
+> *Chemical Science*, 17, 1666–1675 · 2026 · [DOI: 10.1039/D5SC05004A](https://doi.org/10.1039/D5SC05004A)  
+> **My contribution:** co-developed the [SmilX](https://smilx-isogenerator.streamlit.app/) web platform, which applies the TokenSMILES algorithm and software created by the lead researcher.
 
 ---
 
@@ -66,7 +64,7 @@
 |---|---|---|
 | [**Glaucoma Detection (B.Sc. thesis)**](https://github.com/GabrielaVidales/glaucoma-fundus-deep-learning) | CNNs and transfer learning (MobileNetV3, ResNet50V2) on fundus photographs harmonized from 22 public repositories · validation AUC-ROC 0.92 | Python · TensorFlow/Keras · OpenCV |
 | [**Malaria Detection**](https://github.com/GabrielaVidales/Malaria-Detection-Deep-Learning) | MIT capstone: five CNN architectures on blood-smear microscopy · 98.4% test accuracy | Python · TensorFlow/Keras |
-| **Skill-Graph CV Analyzer** | Three cooperating LLM agents extract competencies from medical CVs and map them to ESCO/O\*NET/SFIA as a knowledge graph | Python · Flask · LLMs |
+| **Skill-Graph CV Analyzer** | Independent project: three cooperating LLM agents extract competencies from medical CVs and map them to ESCO/O\*NET/SFIA as a knowledge graph | Python · Flask · LLMs |
 | **Análisis Rápido** 🚧 | Mobile app that grades anemia in goats and sheep (FAMACHA scale) from conjunctiva photos with a neural network · in development | Python · Deep learning |
 
 ---
@@ -75,8 +73,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**ELAYA SMILES**](https://elaya-smiles.onrender.com/) | SMILES → optimized 3D structures with conformer search and neural-network potentials, in-browser visualization | Python · RDKit · ANI · 3Dmol.js |
-| [**SmilX**](https://smilx-isogenerator.streamlit.app/) | Isomer explorer built on the TokenSMILES grammar (*Chemical Science* 2026) | Python · Streamlit |
+| [**ELAYA SMILES**](https://elaya-smiles.onrender.com/) | My own platform: SMILES → optimized 3D structures with conformer search (genetic algorithms, UFF/MMFF94, ANI neural-network potentials) and in-browser visualization · validated on aspirin (rotational constants within 2% of experiment) · manuscript in preparation | Python · RDKit · ANI · 3Dmol.js |
+| [**SmilX**](https://smilx-isogenerator.streamlit.app/) | Co-developed web platform that applies the TokenSMILES algorithm to explore isomers · my contribution to the *Chemical Science* 2026 paper | Python · Streamlit |
 | **Granular Crystals** | Structural transitions under vibrational annealing: analysis of 7,320 simulation frames, structure classification | Python · freud · SciPy |
 
 ---
